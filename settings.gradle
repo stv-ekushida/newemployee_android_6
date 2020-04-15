@@ -1,0 +1,2 @@
+rootProject.name='android_6_1'
+include ':app'
